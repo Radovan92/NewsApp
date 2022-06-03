@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// ignore: avoid_classes_with_only_static_members
 class AppRoutes {
   static Route? onGenerateRoutes(RouteSettings settings) {
     switch (settings.name) {
